@@ -1,0 +1,28 @@
+Grow With Cousins - Interest Form
+
+Description: Tell us what interests you so we can start a career conversation.
+
+1. First and last name - required text
+2. Store number or location - required text
+3. Current position - required single choice:
+   Crew Member; Crew Leader; Shift Manager; Assistant Manager;
+   General Manager; Other
+4. Position or opportunity you are interested in - required single choice:
+   Crew Leader; Shift Manager; Assistant Manager; General Manager;
+   Certified Training General Manager; Area Director;
+   Corporate Support Center Roles; I am not sure yet
+5. What would you like to learn more about? - optional long text
+6. Who would you feel most comfortable speaking with first? - optional choice:
+   My General Manager; My Area Director; Human Resources; No preference
+7. Acknowledgment - required acceptance:
+   I understand that submitting this form starts a career conversation.
+   It does not guarantee training, promotion, a position opening or a
+   specific timeline. My information may be shared with Human Resources,
+   my General Manager and my Area Director.
+
+Privacy note: Do not enter employee IDs, passwords, Social Security numbers,
+medical information or other sensitive information.
+
+Thank-you message: Thank you for raising your hand. Human Resources will review
+your interest and help connect you with the appropriate restaurant leader.
+Continue talking with your manager and working on your current training.
